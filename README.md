@@ -1,4 +1,4 @@
-# Auxilio-e-aprendizado-do-Excel
+# Auxilio e aprendizado do Excel
 
 Com objetivo de descrever o conteúdo que existe em cada uma das abas do site da [Microsoft](https://support.microsoft.com/pt-br/excel)
 
