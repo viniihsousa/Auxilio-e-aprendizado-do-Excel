@@ -29,7 +29,3 @@ Possibilita tornar visível, criar listas personalizadas e até mesmo localizar 
 
 Como agirr caso seja necessário, quando o excel travar/congelar/parar de funcionar
 
-
-# Despesas da Família
-
-[Despesas da Família.xlsx](https://github.com/viniihsousa/Auxilio-e-aprendizado-do-Excel/files/12374485/Despesas.da.Familia.xlsx)
